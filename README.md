@@ -38,9 +38,8 @@ Faktor lain seperti lemak atau vitamin memiliki dampak yang jauh lebih kecil.
 
 ## 🛠️ Metodologi
 1. **Data Cleaning:** Menghapus nilai error/NaN (`-1`).
-2. **EDA:** Visualisasi perbandingan Manufaktur vs Rating dan pengaruh Makronutrisi.
+2. **EDA:** Visualisasi perbandingan Manufaktur vs Rating dan pengaruh Makronutrisi, Mikronutrisi, dll
 3. **Modeling:**
-   * **Linear Regression:** Prediksi angka rating.
    * **Random Forest:** Klasifikasi dan analisis fitur penting.
 
 ## 🚀 Kesimpulan
